@@ -40,16 +40,20 @@
 
 
 
-Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+ʜᴇʏ , ɪ'ᴍ ᴊᴀʀᴠɪs ❄️
 
-* Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+ᴄᴏɴɢɴɪᴛɪᴠᴇ ʀᴇᴄᴀʟɪʙʀᴀᴛɪᴏɴ ♻️
+im a powerful group managing bot, with many useful features
+feel free to add me :) . !!
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
+* Bot Link:  <a href="https://t.me/Arc_reactor_robot" alt="Jarvis Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/JARVISV2UPDATES" alt="JARVIS UPDATES"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/telegra.ph/file/3ee49ffc53c9eab601dfb.jpg">
 
 ## Note:
 Future updates on the code have been moved to a seperate repository that is now private and away from the toxic, ungrateful and cancerous marie community, we believe we have burned out blood enough for the leecher community that just wants to take, debate and laugh while bringing nothing progressive back to the repository, in lieu of the same we are now closed sourced. 
-If you believe this is "illegal or is violating the GPLv3" license, I request you come to @OnePunchSupport on telegram WITH your lawyer to discuss the same.
+If you believe this is "illegal or is violating the GPLv3" license, I request you come to @OnePunchUpdates on telegram WITH your lawyer to discuss the same.
 Good day! 
 
 ## Credits 📍
